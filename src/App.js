@@ -6,7 +6,7 @@ import './App.css';
 function Header() {
   return (
     <header>
-      <h1>My Ecommerce Site</h1>
+      <h1>Testing Commerece</h1>
       <nav>
         <ul>
           <li>Home</li>
